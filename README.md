@@ -1,6 +1,6 @@
 # Full-Stack-Beginner-project
 
-##Tools and Technologies used:
+#Tools and Technologies used:
 
 Backend - Spring boot, Spring Data Jpa, Hibernate, Mysql
 Frontend - React, BootStrap
